@@ -1,0 +1,16 @@
+.check {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#check1 {
+    background-image: url(/firestore.jpg);
+}
+
+#check2 {
+    background-image: url(/git.png);
+}
