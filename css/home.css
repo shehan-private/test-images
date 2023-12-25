@@ -8,9 +8,9 @@
 }
 
 #check1 {
-    background-image: url(firestore.jpg);
+    background-image: url(../firestore.jpg);
 }
 
 #check2 {
-    background-image: url(git.png);
+    background-image: url(../src/git.png);
 }
