@@ -11,14 +11,18 @@
     background-image: url(../firestore.jpg);
 }
 
+/* #check2 {
+    background-image: url("../src/git.png");
+} */
+
 #check2 {
-    background-image: url(../src/git.png);
+    background-image: url("/src/git.png");
 }
 
 #check3 {
-    background-image: url("../resource/nodemon.png");
+    background-image: url("../hibernate-logo.png");
 }
 
 #check4 {
-    background-image: url(../resource/nodemon.png);
+    background-image: url(../hibernate-logo.png);
 }
